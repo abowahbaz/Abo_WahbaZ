@@ -1,5 +1,5 @@
 # 💫 About Me:
-I`m A CS Student , Competitve Programmer , Front - End Developer
+I`m A CS Student , Competitve Programmer and Front - End Developer .
 
 
 ## 🌐 Socials:
