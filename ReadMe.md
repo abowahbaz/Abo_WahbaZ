@@ -9,7 +9,7 @@ I`m A CS Student , Competitve Programmer , Front - End Developer
 
 ## 💻 Competitive Programming:
 [![CodeChef](https://cdn.codechef.com/images/cc-logo.svg)](https://www.codechef.com/users/abo_wahbaz) 
-[![Codeforces](https://imgur.com/XqnCYhU.png)](https://www.codechef.com/users/abo_wahbaz) 
+[![Codeforces](https://i.imgur.com/XqnCYhU.png)](https://www.codechef.com/users/abo_wahbaz) 
 
 
 # 💻 Tech Stack:
