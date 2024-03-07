@@ -7,14 +7,13 @@ I`m A CS Student , Competitve Programmer and Front - End Developer .<br><br>
 
 ## 📊 Competitive Programming :
 
-[<img src="https://i.imgur.com/VBvht6L.png" width="30%"/>](https://leetcode.com/Abo_WahbaZ/)
-[<img src="https://i.imgur.com/BZ8WWKz.png" width="30%"/>](https://www.codeforces.com/users/Abo_WahbaZ)
-[<img src="https://i.imgur.com/MbMK6ME.png" width="30%"/>](https://www.codechef.com/users/abo_wahbaz)
-
+[<img src="https://i.imgur.com/gJud9ZW.png" width="25%"/>](https://leetcode.com/Abo_WahbaZ/)
+[<img src="https://i.imgur.com/JR0eIZx.png" width="25%"/>](https://www.codeforces.com/users/Abo_WahbaZ)
+[<img src="https://i.imgur.com/XqR7tBq.png" width="25%"/>](https://www.codechef.com/users/abo_wahbaz)
 
 
 # 💻 Tech Stack:
-| Web           | Programming   | Other | 
+|  &nbsp; &nbsp; &nbsp;Web           | Programming   |  &nbsp; &nbsp;Other | 
 | ------------- | ------------- | ------------- | 
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)| ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) | 
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)  |
