@@ -8,7 +8,7 @@ I`m A CS Student , Competitve Programmer and Front - End Developer .<br><br>
 ## 📊 Competitive Programming :
 
 [<img src="https://i.imgur.com/gJud9ZW.png" width="25%"/>](https://leetcode.com/Abo_WahbaZ/)
-[<img src="https://i.imgur.com/JR0eIZx.png" width="25%"/>](https://www.codeforces.com/profile/Abo_WahbaZ)
+[<img src="https://i.imgur.com/JR0eIZx.png" width="25%"/>](https://codeforces.com/profile/Abo_WahbaZ)
 [<img src="https://i.imgur.com/XqR7tBq.png" width="25%"/>](https://www.codechef.com/users/abo_wahbaz)
 
 
