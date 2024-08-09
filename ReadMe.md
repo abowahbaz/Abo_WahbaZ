@@ -1,38 +1,31 @@
-<style>
-    div
-    {
-        align = center;
-        margin:2px;
-        padding:5px;
-    }
-</style>
-
-
-<div>
+<div style="text-align: center; margin: 2px; padding: 5px;">
 <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&pause=700&color=F7F7F7&center=true&vCenter=true&width=450&lines=Hello+There+%F0%9F%91%8B;I'm+Ahmed+Mohammed+Wahba"
 />
 </div>
 
-
-
 # 💫 About Me :
-<div> 
+<div style="text-align: center; margin: 2px; padding: 5px;"> 
 
  &emsp;I'm a CS student :man_technologist:   &emsp;
 Competitve Progammer :medal_military:   &emsp;
-ECPC Finalist:trophy:
-
+ECPC Finalist:trophy:   &emsp;
 </div>
 
+
 # 🌐 Socials :
+<div style="text-align: center; margin: 2px; padding: 5px;">
+
 &emsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/AboWahbaZ)   &emsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abowahbaz)   &emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mohammed-wahba-485bb8273/)   &emsp;
 [![X](https://img.shields.io/badge/Twitter-fff?style=flat&logo=x&logoColor=black)](https://x.com/https://x.com/Abo_WahbaZ) 
 
+</div>
+
+
 # 🎯 Competitive Programming Profiles :
-<div>
+<div style="text-align: center; margin: 2px; padding: 5px;">
   &emsp;
     <a href="https://codeforces.com/profile/Abo_WahbaZ"><img alt = "Codeforces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=flat&logo=codeforces&logoColor=white" /></a>	
   &emsp;
@@ -47,7 +40,7 @@ ECPC Finalist:trophy:
 </div>
 
 # 💻 Tech Stack :
-<div> 
+<div style="text-align: center; margin: 2px; padding: 5px;"> 
 
 |    &emsp;Web           |  &emsp; Programming   |    &emsp;Other | 
 | ------------- | ------------- | ------------- | 
@@ -62,7 +55,7 @@ ECPC Finalist:trophy:
 
 # 📊 GitHub Stats :
 
-<div>
+<div style="text-align: center; margin: 2px; padding: 5px;">
 
 ![](https://github-readme-stats.vercel.app/api?username=abowahbaz&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abowahbaz&theme=react&hide_border=false)<br/>
@@ -75,7 +68,7 @@ ECPC Finalist:trophy:
 
 
 # 🔝 Top Contributed Repos :
-<div>
+<div style="text-align: center; margin: 2px; padding: 5px;">
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=abowahbaz&limit=5&theme=react&combine_all_yearly_contributions=true)
