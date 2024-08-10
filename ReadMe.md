@@ -6,7 +6,6 @@
 # 💫 About Me :
 
 <div style="text-align: center; margin: 2px; padding: 5px;">
-****
 &emsp;I'm a CS student :man_technologist: &emsp;
 Competitve Progammer :medal_military: &emsp;
 ECPC Finalist:trophy: &emsp;
