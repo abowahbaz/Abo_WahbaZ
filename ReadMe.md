@@ -19,7 +19,7 @@ ECPC Finalist:trophy: &emsp;
 &emsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/AboWahbaZ) &emsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abowahbaz) &emsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mohammed-wahba-485bb8273/) &emsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohammed-wahba-485bb8273/) &emsp;
 [![X](https://img.shields.io/badge/Twitter-fff?style=flat&logo=x&logoColor=black)](https://x.com/Abo_WahbaZ)
 
 </div>
