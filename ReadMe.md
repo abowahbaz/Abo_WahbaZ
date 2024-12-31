@@ -1,33 +1,28 @@
-<div style="text-align: center; margin: 2px; padding: 5px;">
-<img src = "https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=400&size=30&pause=700&color=F7F7F7&center=true&vCenter=true&width=450&lines=Hello+There+%F0%9F%91%8B;I'm+Ahmed+Mohammed+Wahba"
+<center><img src = "https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=400&size=30&pause=700&color=F7F7F7&center=true&vCenter=true&width=450&lines=Hello+There+%F0%9F%91%8B;I'm+Ahmed+Mohammed+Wahba"
 />
-</div>
+</center>
 
 # 💫 About Me :
 
-<div style="text-align: center; margin: 2px; padding: 5px;">
-I'm a CS student 👩🏻‍💻 </br>
+<center>I'm a CS student 👩🏻‍💻 </br>
 Competitve Programmer 🎖️ </br>
 ECPC Finalist 🏆 </br>
-
-</div>
+</center>
 
 # 🌐 Socials :
 
-<div style="text-align: center; margin: 2px; padding: 5px;">
+<center>
 
-&emsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://facebook.com/AboWahbaZ) &emsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/abowahbaz) &emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=&logoColor=white)](https://www.linkedin.com/in/ahmed-mohammed-wahba-485bb8273/) &emsp;
 [![X](https://img.shields.io/badge/Twitter-fff?style=plastic&logo=x&logoColor=black)](https://x.com/Abo_WahbaZ)
 
-</div>
+</center>
 
 # 🎯 Competitive Programming :
 
-<div style="text-align: center; margin: 2px; padding: 5px;">
-  &emsp;
+<center>  &emsp;
     <a href="https://codeforces.com/profile/Abo_WahbaZ"><img alt = "Codeforces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
   <a href="https://atcoder.jp/users/Abo_WahbaZ"><img alt = "AtCoder" src="https://badgen.org/img/atcoder/Abo_WahbaZ/rating/algorithm?style=plastic&label=AtCoder" /></a>
@@ -38,11 +33,11 @@ ECPC Finalist 🏆 </br>
   &emsp;
     <a href="https://www.codechef.com/users/abo_wahbaz"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
-</div>
+</center>
 
 # 💻 Tech Stack :
 
-<div style="text-align: center; margin: 2px; padding: 5px;">
+<center>
 
 | Web                                                                                                             | Programming                                                                                                            | Other                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,23 +48,23 @@ ECPC Finalist 🏆 </br>
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)         | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) |                                                                                                                                       |
 | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)   |                                                                                                                        |                                                                                                                                       |
 
-</div>
+</center>
 
 # 📊 GitHub Stats :
 
-<div style="text-align: center; margin: 2px; padding: 5px;">
+<center>
 
 ![](https://github-readme-stats.vercel.app/api?username=abowahbaz&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abowahbaz&theme=react&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abowahbaz&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
+</center>
 
 # 🔝 Top Contributed Repos :
 
-<div style="text-align: center; margin: 2px; padding: 5px;">
+<center>
 
 ![](https://github-contributor-stats.vercel.app/api?username=abowahbaz&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-</div>
+</center>
